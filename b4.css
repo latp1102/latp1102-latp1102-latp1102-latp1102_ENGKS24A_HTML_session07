@@ -1,0 +1,47 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.head{
+    width: 80%;
+    margin: auto;
+    padding-top: 20px;
+}
+
+.a{
+    font-size: 24px;
+    font-weight: bold;
+    border-left: 5px solid orange;
+    padding-left: 10px;
+    margin-bottom: 15px;
+}
+
+.b{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    width: 100%;
+}
+
+.b img{
+    width: 400px;
+    height: 200px;
+    height: auto;
+}
+
+.c{
+    position: relative;
+    bottom: 70px;
+    left: 10px;
+    right: 10px;
+    color: white;
+    padding: 10px;
+    font-size: 16px;
+}
+
+
